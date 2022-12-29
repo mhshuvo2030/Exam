@@ -1,0 +1,282 @@
+* {
+	margin: 0;
+}
+
+.menu ul li {
+  list-style: none;
+  float: left;
+  font-size: 25px;
+  padding: 15px;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: black;
+}
+.menu ul {
+  float: right;
+  margin-right: 100px;
+}
+
+.head-content h2 {
+  float: left;
+  margin-left: 100px;
+  margin-top: 5px;
+  font-size: 30px;
+}
+
+.header-area {
+  overflow: hidden;
+}
+.content-one {
+  text-align: center;
+}
+.content-one h2 {
+  margin-top: 59px;
+  font-size: 40px;
+}
+.content-one p {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.photo-area {
+  text-align: center;
+  overflow: hidden;
+}
+.table {
+  margin-top: 100px;
+}
+
+.pho-one {
+  float: left;
+  margin-left: 500px;
+  margin-top: 100px;
+}
+.pho-two {
+  float: left;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+.pho-three {
+  float: left;
+  margin-left: 25px;
+  margin-top: 100px;
+}
+
+.ipsam h2 {
+  font-size: 25px;
+  /*! margin-left: 300px; */
+  /*! margin-top: 50px; */
+}
+.ipsam h5 {
+  font-size: 20px;
+  /*! margin-left: 243px; */
+  margin-top: 0px;
+}
+.ipsam {
+  float: left;
+  font-size: 20px;
+  margin-top: 50px;
+  margin-left: 181px;
+}
+
+.content-one a {
+  background-color: #fd79a8;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 15px;
+  text-decoration: none;
+}
+
+.lorem {
+  float: right;
+  margin-top: 50px;
+  margin-right: 171px;
+  font-size: 21px;
+}
+
+.language {
+  overflow: hidden;
+}
+
+.html {
+  float: left;
+  margin-left: 181px;
+  margin-top: 150px;
+  font-size: 20px;
+}
+.css {
+  float: right;
+  margin-right: 260px;
+  margin-top: 90px;
+}
+
+.css img {
+  width: 400px;
+}
+
+.comfort {
+  overflow: hidden;
+}
+.comfort {
+  overflow: hidden;
+}
+
+.instagram {
+  text-align: center;
+  margin-top: 47px;
+}
+
+.instagram h2 {
+  font-size: 40px;
+}
+
+.area {
+  text-align: center;
+}
+.pic-one {
+  float: left;
+  margin-left: 300px;
+  margin-top: 50px;
+  text-align: center;
+}
+.pic-two {
+  float: left;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.pic-three {
+  float: left;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.pic-four {
+  float: left;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.pic-one img {
+  width: 200px;
+}
+.pic-two img {
+  width: 183px;
+}
+.pic-three img {
+  width: 188px;
+}
+.pic-four img {
+  width: 187px;
+}
+
+.laptop {
+  overflow: hidden;
+}
+
+.mobile {
+  float: left;
+  font-size: 26px;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+
+.coumputer {
+  float: right;
+  margin-top: 80px;
+  margin-right: 400px;
+  font-size: 25px;
+}
+
+input {
+  border: 0px;
+  background-color: #ecf0f1;
+  font-size: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.coumputer a {
+  background-color: #D980FA;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 37px;
+  text-decoration: none;
+  /*! margin-right: 142px; */
+}
+.footer-top{
+  background-color: #b2bec3;
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.form {
+  overflow: hidden;
+}
+
+.footer-top img {
+  height: 200px;
+  margin-left: 550px;
+}
+
+.f-one {
+  font-size: 20px;
+  margin-top: 30px;
+  float: left;
+  margin-left: 200px;
+}
+
+.fot-two {
+  margin-left: 200px;
+  margin-top: 30px;
+  float: left;
+  font-size: 20px;
+}
+
+.fot-two h5 {
+  font-size: 14px;
+}
+.fot-two h3 {
+  font-size: 17px;
+}
+.f-one h4 {
+  font-size: 16px;
+}
+.f-one h5 {
+  font-size: 17px;
+}
+
+.f-three {
+  float: right;
+  margin-top: 50px;
+  margin-right: 150px;
+}
+
+.f-three h2 {
+  font-size: 30px;
+}
+label {
+  font-size: 20px;
+}
+
+.f-three a {
+  background-color: #fd79a8;
+  color: white;
+  padding: 3px 8px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 16px;
+  text-decoration: none;
+}
+
+.f-one img {
+  margin-top: 20px;
+}
